@@ -1,0 +1,6 @@
+#Ignore files created locally
+*.pdf
+*.docx
+*.doc
+*.html
+.Rproj.user

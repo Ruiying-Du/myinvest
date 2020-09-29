@@ -1,0 +1,14 @@
+Package: mrtemplate
+Type: Package
+Title: Madrat Template Package
+Version: 0.1
+Date: 2019-01-01
+Authors@R: c(person("Edwin", "Example", email = "edwin.example@template.edu", role = c("aut","cre"))
+Description: This is a madrat template package.
+Depends:
+    R(>= 2.10.0),
+    madrat(>= 1.61),
+    magclass(>= 4.109)
+License: LGPL-3 | file LICENSE
+LazyData: no
+RoxygenNote: 6.0.1
