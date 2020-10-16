@@ -8,3 +8,5 @@ function()
   x <- as.data.frame(read_excel(pasti(dir,file),sheet=sheet,col_names=TRUE))
   colnames(x)[1] <- "country"
 }
+  
+
